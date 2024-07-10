@@ -360,21 +360,30 @@ button {
 }
 
 .read_bt {
-    width: 170px;
+    width: 30%;
     float: left;
     padding-top: 30px;
 }
 
 .read_bt a {
     width: 100%;
-    float: left;
+    display: flex;           /* Add flex display */
+    align-items: center;     /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
     font-size: 16px;
     color: #ffffff;
     background-color: #252525;
-    text-align: center;
-    padding: 10px 0px;
+    text-align: center;      /* Ensure text alignment in case of multiline text */
+    padding: 10px 0;
     border-radius: 5px;
     text-transform: uppercase;
+    text-decoration: none;   /* Ensure no underline */
+    gap: 0.5rem;             /* Add space between text and image */
+}
+
+.read_bt a img {
+    width: 2.5rem;           /* Ensure the image maintains its size */
+    height: 2.5rem;          /* Ensure the image maintains its size */
 }
 
 .read_bt a:hover {
@@ -580,15 +589,24 @@ button {
 
 .readmore_bt a {
     width: 100%;
-    float: left;
+    display: flex;           /* Add flex display */
+    align-items: center;     /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
     font-size: 16px;
     color: #ffffff;
     background-color: #363636;
-    text-align: center;
-    padding: 10px 0px;
+    text-align: center;      /* Ensure text alignment in case of multiline text */
+    padding: 10px 0;
     border-radius: 5px;
     font-weight: bold;
     text-transform: uppercase;
+    text-decoration: none;   /* Ensure no underline */
+    gap: 0.5rem;             /* Add space between text and image */
+}
+
+.readmore_bt a img {
+    width: 2.5rem;           /* Ensure the image maintains its size */
+    height: 2.5rem;          /* Ensure the image maintains its size */
 }
 
 .readmore_bt a:hover {

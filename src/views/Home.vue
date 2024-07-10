@@ -47,10 +47,16 @@ export default {
                     the ideal choice for those who demand the best.
                   </p>
                   <div class="read_bt">
-                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
-                      >Contact Seller</a
-                    >
-                  </div>
+  <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
+    Contact Seller 
+    <img
+      src="files/w.png"
+      alt="WhatsApp"
+      style="width: 2.5rem; height: 2.5rem"
+    />
+  </a>
+</div>
+
                 </div>
                 <div class="col-sm-4">
                   <div
@@ -80,10 +86,16 @@ export default {
                     collection.
                   </p>
                   <div class="read_bt">
-                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
-                      >Contact Seller</a
-                    >
-                  </div>
+  <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
+    Contact Seller 
+    <img
+      src="files/w.png"
+      alt="WhatsApp"
+      style="width: 2.5rem; height: 2.5rem"
+    />
+  </a>
+</div>
+
                 </div>
                 <div class="col-sm-4">
                   <div
@@ -117,10 +129,16 @@ export default {
                     confidence to shine.
                   </p>
                   <div class="read_bt">
-                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
-                      >Contact Seller</a
-                    >
-                  </div>
+  <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
+    Contact Seller 
+    <img
+      src="files/w.png"
+      alt="WhatsApp"
+      style="width: 2.5rem; height: 2.5rem"
+    />
+  </a>
+</div>
+
                 </div>
                 <div class="col-sm-4">
                   <div
@@ -393,7 +411,11 @@ export default {
               </div>
               <div class="readmore_bt">
                 <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
-                  >Contact us</a
+                  >Contact us  <img
+      src="files/w.png"
+      alt="WhatsApp"
+      style="width: 2.5rem; height: 2.5rem"
+    /></a
                 >
               </div>
             </div>
@@ -523,6 +545,11 @@ export default {
                   <li>
                     <a href="#">
                       <span class="padding_left10">Raw Hair</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <span class="padding_left10">Wig Closure</span>
                     </a>
                   </li>
                 </ul>
