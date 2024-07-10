@@ -190,7 +190,7 @@ export default {
                   style="
                     font-family: 'Great Vibes', cursive;
                     width: 100%;
-                    margin: 0 auto;
+                    margin: 1rem 0 auto auto;
                     font-size: 40px;
                     color: #000;
                     line-height: 50px;
@@ -217,9 +217,9 @@ export default {
                       />
                     </a>
                   </div>
-                  <h3 class="price_text" style="width: 16rem">
+                  <!-- <h3 class="price_text" style="width: 16rem">
                     Price: 150,000 xaf
-                  </h3>
+                  </h3> -->
                 </div>
               </div>
             </div>
@@ -230,7 +230,7 @@ export default {
                   style="
                     font-family: 'Great Vibes', cursive;
                     width: 100%;
-                    margin: 0 auto;
+                    margin: 1rem 0 auto auto;
                     font-size: 40px;
                     color: #000;
                     line-height: 50px;
@@ -257,9 +257,9 @@ export default {
                       />
                     </a>
                   </div>
-                  <h3 class="price_text" style="width: 16rem">
+                  <!-- <h3 class="price_text" style="width: 16rem">
                     Price: 210,000 xaf
-                  </h3>
+                  </h3> -->
                 </div>
               </div>
             </div>
@@ -270,7 +270,7 @@ export default {
                   style="
                     font-family: 'Great Vibes', cursive;
                     width: 100%;
-                    margin: 0 auto;
+                    margin: 1rem 0 auto auto;
                     font-size: 40px;
                     color: #000;
                     line-height: 50px;
@@ -297,9 +297,9 @@ export default {
                       />
                     </a>
                   </div>
-                  <h3 class="price_text" style="width: 16rem">
+                  <!-- <h3 class="price_text" style="width: 16rem">
                     Price: 250,000 xaf
-                  </h3>
+                  </h3> -->
                 </div>
               </div>
             </div>
@@ -310,7 +310,7 @@ export default {
                   style="
                     font-family: 'Great Vibes', cursive;
                     width: 100%;
-                    margin: 0 auto;
+                    margin: 1rem 0 auto auto;
                     font-size: 40px;
                     color: #000;
                     line-height: 50px;
@@ -337,9 +337,9 @@ export default {
                       />
                     </a>
                   </div>
-                  <h3 class="price_text" style="width: 16rem">
+                  <!-- <h3 class="price_text" style="width: 16rem">
                     Price: 50,000 xaf
-                  </h3>
+                  </h3> -->
                 </div>
               </div>
             </div>
@@ -389,7 +389,7 @@ export default {
               </div>
               <div class="readmore_bt">
                 <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
-                  >Read More</a
+                  >Contact us</a
                 >
               </div>
             </div>

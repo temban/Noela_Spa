@@ -109,9 +109,9 @@ export default {
               </div>
             </div>
           </div>
-          <div class="seemore_bt">
+          <!-- <div class="seemore_bt">
             <a href="" target="_blank">Load More...</a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -181,6 +181,11 @@ export default {
                   <li>
                     <a href="#">
                       <span class="padding_left10">Raw Hair</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <span class="padding_left10">Wig Closure</span>
                     </a>
                   </li>
                 </ul>
