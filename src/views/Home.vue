@@ -367,7 +367,7 @@ export default {
             </div>
           </div>
           <div class="seemore_bt">
-            <a href="/Projects" target="_blank">See More</a>
+            <a href="/Projects">See More</a>
           </div>
         </div>
       </div>
