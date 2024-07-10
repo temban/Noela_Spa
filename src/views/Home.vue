@@ -494,7 +494,7 @@ export default {
                     <a href="#">
                       <i class="fa fa-phone" aria-hidden="true"></i
                       ><span class="padding_left10"
-                        >Call : ++237651269879</span
+                        >Call : +237651269879</span
                       >
                     </a>
                   </li>

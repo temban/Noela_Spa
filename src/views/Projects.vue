@@ -138,7 +138,7 @@ export default {
                     <a href="#">
                       <i class="fa fa-envelope" aria-hidden="true"></i
                       ><span class="padding_left10"
-                        >Email : noela@gmail.com</span
+                        >Email : noelaspa@gmail.com</span
                       >
                     </a>
                   </li>
