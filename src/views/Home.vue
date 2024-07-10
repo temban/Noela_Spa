@@ -46,11 +46,7 @@ export default {
                     simply want to elevate your everyday look, our silky wig is
                     the ideal choice for those who demand the best.
                   </p>
-                  <div class="read_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank"
-                      >Contact Seller</a
-                    >
-                  </div>
+
                 </div>
                 <div class="col-sm-4">
                   <div
@@ -80,7 +76,7 @@ export default {
                     collection.
                   </p>
                   <div class="read_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank"
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
                       >Contact Seller</a
                     >
                   </div>
@@ -117,7 +113,7 @@ export default {
                     confidence to shine.
                   </p>
                   <div class="read_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank"
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
                       >Contact Seller</a
                     >
                   </div>
@@ -139,7 +135,7 @@ export default {
             </div>
           </div>
         </div>
-        <a
+        <a style="width: 8.5%;"
           class="carousel-control-prev"
           href="#carouselExampleIndicators"
           role="button"
@@ -213,7 +209,7 @@ export default {
                 />
                 <div class="btn_main" style="height: 5rem">
                   <div class="buy_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank">
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
                       <img
                         src="files/w.png"
                         alt="WhatsApp"
@@ -253,7 +249,7 @@ export default {
                 />
                 <div class="btn_main" style="height: 5rem">
                   <div class="buy_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank">
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
                       <img
                         src="files/w.png"
                         alt="WhatsApp"
@@ -293,7 +289,7 @@ export default {
                 />
                 <div class="btn_main" style="height: 5rem">
                   <div class="buy_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank">
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
                       <img
                         src="files/w.png"
                         alt="WhatsApp"
@@ -333,7 +329,7 @@ export default {
                 />
                 <div class="btn_main" style="height: 5rem">
                   <div class="buy_bt">
-                    <a href="https://wa.me/+237674111881" target="_blank">
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank">
                       <img
                         src="files/w.png"
                         alt="WhatsApp"
@@ -349,7 +345,7 @@ export default {
             </div>
           </div>
           <div class="seemore_bt">
-            <a href="https://wa.me/+237674111881" target="_blank">See More</a>
+            <a href="/Projects" target="_blank">See More</a>
           </div>
         </div>
       </div>
@@ -392,7 +388,7 @@ export default {
                 </p>
               </div>
               <div class="readmore_bt">
-                <a href="https://wa.me/+237674111881" target="_blank"
+                <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
                   >Read More</a
                 >
               </div>
