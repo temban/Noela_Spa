@@ -46,7 +46,11 @@ export default {
                     simply want to elevate your everyday look, our silky wig is
                     the ideal choice for those who demand the best.
                   </p>
-
+                  <div class="read_bt">
+                    <a href="https://wa.me/+237651269879?text=I%20am%20interested%20in%20your%20wig%20services" target="_blank"
+                      >Contact Seller</a
+                    >
+                  </div>
                 </div>
                 <div class="col-sm-4">
                   <div
