@@ -125,17 +125,12 @@ export default {
               <h3 class="address_text">Contact Us</h3>
               <div class="address_bt">
                 <ul>
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-map-marker" aria-hidden="true"></i
-                      ><span class="padding_left10">Address : Loram Ipusm</span>
-                    </a>
-                  </li>
+                
                   <li>
                     <a href="#">
                       <i class="fa fa-phone" aria-hidden="true"></i
                       ><span class="padding_left10"
-                        >Call : +237-674-111-881</span
+                        >Call : +237651269879</span
                       >
                     </a>
                   </li>
